@@ -1,0 +1,51 @@
+ID,Name,Age,City,Salary,Department
+1,Bob,32,New York,56805,IT
+2,Bob,40,Toronto,115089,Sales
+3,Isaac,25,Paris,57631,Finance
+4,Emma,49,Paris,64320,Marketing
+5,Charlie,55,Berlin,83619,Finance
+6,Bob,51,Berlin,33290,Sales
+7,Charlie,22,Dubai,66658,IT
+8,Isaac,24,Dubai,108364,Engineering
+9,Jack,35,London,59593,Engineering
+10,Emma,36,Dubai,80598,Marketing
+11,Frank,47,New York,91037,Finance
+12,Jack,37,New York,82769,Sales
+13,Jack,21,Dubai,98336,Finance
+14,Grace,36,Dubai,41049,IT
+15,Bob,28,London,112045,Engineering
+16,Emma,23,London,112567,Finance
+17,Hannah,37,Paris,115021,HR
+18,Emma,45,Sydney,103811,Engineering
+19,Bob,32,London,34720,IT
+20,David,24,Berlin,58082,Finance
+21,Jack,32,New York,43405,HR
+22,Isaac,58,Dubai,102267,Engineering
+23,Bob,49,London,71788,Finance
+24,Emma,40,New York,63857,Finance
+25,Bob,25,Berlin,45524,IT
+26,Grace,34,Sydney,36811,Marketing
+27,Grace,26,Sydney,65254,Engineering
+28,Emma,29,London,65077,HR
+29,Frank,51,Toronto,84472,IT
+30,Bob,56,Dubai,94341,IT
+31,Bob,46,Sydney,64502,HR
+32,David,41,Berlin,86767,Engineering
+33,Charlie,37,Tokyo,101012,Marketing
+34,Isaac,60,Toronto,45858,Marketing
+35,Alice,52,Dubai,42917,Finance
+36,Jack,50,Sydney,49957,Sales
+37,Isaac,53,New York,78534,Finance
+38,Jack,51,Paris,114979,Marketing
+39,Frank,52,Tokyo,112387,Marketing
+40,David,60,New York,116604,Engineering
+41,Charlie,52,Toronto,35955,Marketing
+42,Grace,21,Berlin,77608,IT
+43,Hannah,58,Paris,70571,Finance
+44,David,54,London,35863,Marketing
+45,Isaac,57,Berlin,67896,Marketing
+46,Bob,38,Tokyo,94108,Finance
+47,Frank,57,Tokyo,106827,Engineering
+48,Frank,51,Sydney,42598,HR
+49,Bob,48,Toronto,84718,Engineering
+50,Bob,46,Tokyo,51963,Finance
